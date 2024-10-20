@@ -1,5 +1,5 @@
 # VLCDeleteItem
-A button to delete the currently playing item and remove it from the playlist.
+A button to delete the currently playing item from your hard drive and remove it from the playlist.
 
 ## Installation
 from [install media player addon](https://www.vlchelp.com/install-vlc-media-player-addon/)
