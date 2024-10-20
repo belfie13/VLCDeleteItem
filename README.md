@@ -1,6 +1,8 @@
 # VLCDeleteItem
 A button to delete the currently playing item from your hard drive and remove it from the playlist.
 
+Useful for reviewing a list of videos you might want to delete.
+
 ## Installation
 from [install media player addon](https://www.vlchelp.com/install-vlc-media-player-addon/)
 ### Where to copy lua files to?
